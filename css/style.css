@@ -524,6 +524,7 @@ ul.nav li.active a:before {
 	display: inline-block;
 	margin-top:20px;
 }
+
 .tab p {
 	text-align:justify;
 }
@@ -545,6 +546,14 @@ ul.nav li.active a:before {
 	height: 80px;
 	line-height: 80px;
 	font-size: 32px;
+}
+@media all and (min-width: 299px) and (max-width: 479px) {
+	#features .nav-tabs > li > a{
+        width: 60px;
+		height: 61px;
+		line-height: 50px;
+		font-size: 32px;
+    }
 }
 #features .nav-tabs > li > a i.fa {
 	font-size:25px;

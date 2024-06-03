@@ -197,6 +197,7 @@ top:10px;
 }
 }
 @media all and (min-width: 299px) and (max-width: 479px) {
+   
 #slider-video {
     position: relative;
 	}
@@ -213,6 +214,7 @@ font-size:45px;
 	.ab-sec-img img{
 width:100%;
 }
+
 a.btn-down {
     top: 65px;
 	}
@@ -257,6 +259,7 @@ ul.navbar-nav {
 	}
 .navbar-collapse.in{
 overflow:hidden;
+background-color: black;
 }
 .tab-img {
     top: 0;
