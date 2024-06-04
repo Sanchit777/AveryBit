@@ -292,4 +292,7 @@ margin-top:30px;
 #footer-down ul li {
     margin-right: 10px;
 }
+#portfolio .portfolio-item .portfolio-item-inner .portfolio-info{
+    width: 105%;
+}
 }
